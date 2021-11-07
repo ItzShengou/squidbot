@@ -7,8 +7,8 @@ module.exports = client => {
     //  type: `WATCHING`,
     //}
   });
-  console.log(`---------------------------------`);
-  console.log(`   Status`);
-  console.log(`---------------------------------`);
+  //console.log(`---------------------------------`);
+ //console.log(`   Status`);
+ // console.log(`---------------------------------`);
   console.log(`Status | ${client.user.username} Loaded`);
 };
