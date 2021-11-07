@@ -1,0 +1,27 @@
+﻿{
+	"settings": {
+		"token": "OTA2OTE5MDA3NDk0NDcxNzYx.YYfoJQ.IqaoMnfaEUKtoVuhUL9meT6_EJQ",
+		"prefix": "/",
+		"owner": ["582580063963316244","461191594675011584"]
+	},
+
+	"color": {
+		"main": "#ff5c40",
+		"error": "#e74444",
+		"logs": "#000000",
+		"green": "#2ecc70",
+		"yellow": "#fefa02"
+	},
+
+    "mysql": {
+        "host": "92.53.90.68",
+        "user": "db401",
+        "password": "tCw-jWY-qRQ-2Yh",
+        "database": "db401"
+    },
+
+	"logs": {
+		"error": "906919287053242438",
+		"cmd": "906919287053242438"
+	}
+}
